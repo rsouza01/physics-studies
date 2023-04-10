@@ -39,7 +39,13 @@ $$
 \end{aligned}
 $$
 
-## Covariant and Contravariant notation
+
+
+
+
+
+
+<!-- ## Covariant and Contravariant notation
 
 We shall use a notation using contravariant components $x^{\mu}$ of the 4D position vector as 3D cartesian coordinates $X_i$ plus ct, i.e.
 
@@ -48,4 +54,4 @@ x^{\mu} =
 \begin{bmatrix} x^0 \cr x^1 \cr x^2 \cr x^3\end{bmatrix}=
 \begin{bmatrix}ct \cr X_1 \cr X_2 \cr X_3\end{bmatrix}=
 \begin{bmatrix}ct,X_i\end{bmatrix}^T
-$$
+$$ -->
